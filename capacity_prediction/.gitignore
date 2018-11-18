@@ -1,0 +1,9 @@
+.idea/
+data/
+output.csv/
+output/
+data.csv
+target/
+project/
+.git-old/
+data_new/
